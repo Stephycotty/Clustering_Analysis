@@ -2,7 +2,7 @@
 ### Clustering Analysis on Country Data
 
 **Task Objective**:
-This project applied machine learning clustering algorithms to the dataset `country_data.csv`, containing various indicators such as child mortality, exports,health,etc. The goal is to investigate and analyze the dataset using clustering techniques, derive meaningful insights, and provide recommendations based on the clustering results.
+This project applied machine learning clustering algorithms to the dataset `country_data.csv`, containing various indicators such as child mortality, exports,health,etc. The goal is to investigate and analyze the dataset using clustering techniques to group countries based on multiple socioeconomic indicators, derive meaningful insights, and provide recommendations based on the clustering results.
 
 **Process and Methods**:
 
